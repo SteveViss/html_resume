@@ -1,0 +1,47 @@
+:root {
+    --sidebar-width: 11.5rem;
+}
+
+[data-id="main"] {
+    padding: 0 0.25in 0 0.25in;
+    font-size: 0.8rem;
+    float: left;
+}
+
+h1 {
+    text-transform: capitalize;
+    color: rgb(0, 152, 199);
+    font-weight: 600;
+}
+
+.aside h2 {
+    font-weight: 500;
+    font-size: 1rem;
+    color: rgb(0, 152, 199);
+}
+
+.aside {
+    background-color: rgb(230, 243, 247);
+    padding: 0.1in var(--sidebar-horizontal-padding);
+}
+
+a {
+    color: rgb(0, 152, 199);
+
+}
+
+.aside .level2 {
+    margin-top: 0.3in;
+}
+
+.pagedjs_page:first-of-type {
+    --sidebar-background-color: rgb(230, 243, 247);
+}
+
+.pagedjs_page:not(:first-of-type) {
+    --sidebar-background-color: rgb(230, 243, 247);
+}
+
+.pagedjs_page {
+    --pagedjs-margin-right: 0.25in;
+}

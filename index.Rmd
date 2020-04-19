@@ -1,0 +1,280 @@
+---
+title: "Steve Vissault"
+author: Steve Vissault
+date: "`r Sys.Date()`"
+output: 
+    pagedown::html_resume:
+        css: ['css/styles.css', 'resume']
+        self_contained: true        
+---
+
+Aside
+====================================
+
+Coordonnées
+------------------------------------
+
+54 Rue de London<br>
+Sherbrooke, QC J1H 3M3<br>
+<i class="fas fa-mobile-alt"></i> 819 347-9960<br>
+<i class="fa fa-envelope"></i> s.vissault@yahoo.fr<br>
+<br>
+<a href="https://steveviss.github.io"><i class="fa fa-globe"></i> Site personnel</a><br>
+<a href="https://github.com/SteveViss"><i class="fa fa-github"></i> SteveViss</a><br>
+<a href="https://twitter.com/SVissault"><i class="fa fa-twitter"></i> @SVissault</a><br>
+<a href="https://scholar.google.com/citations?user=gUUVhKoAAAAJ&hl=fr"><i class="fa fa-google"></i> Publications</a><br>
+
+Analyse statistique
+------------------------------------
+
+Régressions, Analyse en composantes principales, Classification automatique
+
+Programmation scientifique
+------------------------------------
+
+<span style="font-weight:600;">Base de données</span>: PostgreSQL, SQLite<br>
+
+<span style="font-weight:600;">Automatisation de rapports</span>: markdown, pandoc, LateX, makefile<br> 
+
+<span style="font-weight:600;">Analyse et représentation de données</span>: Python, R, D3.js<br>
+
+<span style="font-weight:600;">Développement web</span>: HTML/CSS, NodeJS, vue.js, AngularJS, jekyll, harp.js etc.<br>
+
+<span style="font-weight:600;">DevOps (CI/CD)</span>: Ansible, Vagrant, Docker, Travis, AppVeyor
+
+
+Langues
+------------------------------------
+
+**Francais**<br>
+Langue maternelle<br>
+**Anglais**<br>
+Niveau B2
+
+
+Main
+====================================
+
+Steve Vissault <span style="text-transform: capitalize;font-size: 13px;">M.Sc.</span>{#title} 
+------------------------------------
+
+<span style="font-size: 1rem;">< <i class="fa fa-chart-bar"></i> + <i class="fa fa-flask"></i> >  Scientifique des données</span>
+
+Expériences Professionnelles {data-icon=suitcase}
+------------------------------------
+
+### Professionnel de recherche | Bioinformaticien
+
+Université de Sherbrooke
+
+Sherbrooke, CA
+
+2018 - 2016
+
+Administration d'un laboratoire de recherche | analyses statistiques | analyses spatiales | infographie | développement web | gestion de serveurs et de systèmes de base de données<br>
+
+- **[Mangal.io](https://mangal.io)** - _Développeur principal_ - Service web et outils permettant l'entreposage et l'analyse de réseaux écologiques (e.g. Plantes-Pollinisateurs)
+- **[Coléo](https://coleo.biodiversite-quebec.ca)** - _Développeur principal_ - Infrastructure informatique permettant l'entreposage et l'analyses de données de biodiversité
+
+### Bioinformaticien 
+
+Direction de la recherche forestière (MFFP) | Ouranos
+
+Québec, CA
+
+2014<br>(1 mois)
+
+Architecture de base de données spatiales | injection de 1To de données en parallèle sur super-calculateur (Calcul Québec) | [Séminaire](http://steveviss.github.io/Talk_Ouranos/#1)  
+
+### Assistant de recherche
+
+Université du Québec à Rimouski
+
+Rimouski, CA
+
+2013<br>(3 mois)
+
+Intégration multi-sources des données d'inventaires forestiers É-U & CA | Analyse démographique des peuplements forestiers d'Amérique du Nord
+
+
+Ateliers de travail {data-icon=briefcase}
+------------------------------------
+
+### Comment mieux visualiser les données de biodiversité?
+
+Participants
+
+Mt. Saint-Hilaire, CA
+
+2017-2019
+
+Groupe de travail multidisciplinaire financé par le Centre des Sciences de la Biodiversité du Québec
+
+### Visualisation des données scientifiques
+
+Organisateur
+
+Mt. Saint-Hilaire, CA
+
+2016
+
+Atelier de 2 jours financé par le Centre des Sciences de la Biodiversité du Québec
+
+
+
+Certification {data-icon=certificate}
+------------------------------------
+
+### Calculs de haute performance (HPC)
+
+École de printemps de Calcul Québec
+
+Orford, CA
+
+2014
+
+
+Diplômes {data-icon=graduation-cap}
+------------------------------------
+
+### Doctorat en bioinformatique
+
+Université de Sherbrooke
+
+Sherbrooke, CA
+
+2019 - non-complété
+
+### Maitrise en biologie
+
+Université du Québec à Rimouski
+
+Rimouski, CA
+
+2016 - 2013
+
+Approche par modélisation statistique et informatique <br>
+_Mention d'excellence_ pour le mémoire _Biogéographie et dynamique de la forêt tempérée nordique dans un contexte de changements climatiques_
+
+### Baccalauréat en biologie
+
+Université du Québec à Rimouski
+
+Rimouski, CA
+
+2013 - 2010
+
+Concentration - Gestion de la faune et de ses habitats
+
+### Technique de bioécologie
+
+Cégep de La Pocatière
+
+La Pocatière, CA
+
+2010 - 2007
+
+
+Enseignements {data-icon=chalkboard-teacher}
+------------------------------------
+
+### Géostatistiques - Modèles spatio-temporels
+
+GSFE01 - PR Stats
+
+Winnipeg, CA
+
+2019
+
+Instructeur et aide au montage du [matériels pédagogiques](https://steveviss.github.io/PR-GSFE01/)
+
+### Méthodes computationnelles en écologie
+
+BIO500 - Université de Sherbrooke
+
+Sherbrooke, CA
+
+2019 - 2017
+
+Assistant et aide au montage du [matériels pédagogiques](https://econumuds.github.io/BIO500/bloc1/#1)
+
+### Introduction à la programmation scientifique
+
+BIO109 - Université de Sherbrooke
+
+Sherbrooke, CA
+
+2017
+
+Assistant et aide au montage du [matériels pédagogiques](https://econumuds.github.io/BIO109/cours1/#1)
+
+### Biostatistiques 
+
+BIO10091 - Université du Québec à Rimouski
+
+Rimouski
+
+2014
+
+Auxilliaire d’enseignement
+
+Publications {data-icon=book}
+------------------------------------
+
+### <span style="font-weight:300;">Brice M.H., <span style="text-decoration: underline;">Vissault S.</span>, Vieira W., Gravel D., Legendre P., Fortin M. Drivers of forest community changes in the boreal-temperate ecotone. Global Change Biology</span>
+
+N/A
+
+N/A
+
+Accepted
+
+
+### <span style="font-weight:300;">Becker-Scarpitta A., <span style="text-decoration: underline;">Vissault S.</span>, Vellend M. Four decades of plant community change along a continental gradient of warming. Global Change Biology. 5(25):1629-1641.<a href="https://doi.org/10.1111/gcb.14568"> URL</a></span>
+
+N/A
+
+N/A
+
+2019
+
+### <span style="font-weight:300;">Legagneux P., Casajus N., Cazelles K., Chevallier C m., Chevrinais M., Guéry L., Jacquet C., Jaffré M., Naud M J., Noisette F., Ropars P., <span style="text-decoration: underline;">Vissault S.</span>, Archambault P., Bêty J., Berteaux D., Gravel D. Our House Is Burning: Discrepancy in Climate Change vs. Biodiversity Coverage in the Media as Compared to Scientific Literature. Frontiers in Ecology and Evolution (5):175.<a href="https://doi.org/10.3389/fevo.2017.00175"> URL</a></span>
+
+N/A
+
+N/A
+
+2018
+
+### <span style="font-weight:300;">Talluto M V., Boulangeat I., <span style="text-decoration: underline;">Vissault S.</span>, Thuiller W., Gravel D. Extinction debt and colonization credit delay range shifts of eastern North American trees. Nature Ecology & Evolution. June(1):0182.<a href="https://doi.org/10.1038/s41559-017-0182"> URL</a></span>
+
+N/A
+
+N/A
+
+2017
+
+### <span style="font-weight:300;">Marchese C., Albouy C., Tremblay J r., Dumont D., D’Ortenzio F., <span style="text-decoration: underline;">Vissault S.</span>, Bélanger S. Changes in phytoplankton bloom phenology over the North Water (NOW) polynya: a response to changing environmental conditions. 2017 Polar Biology. 9(40):1721-1737.<a href="https://doi.org/10.1007/s00300-017-2095-2"> URL</a></span>
+
+N/A
+
+N/A
+
+2017
+
+### <span style="font-weight:300;">Kopelke J P., Nyman T., Cazelles K v., Gravel D., <span style="text-decoration: underline;">Vissault S.</span>, Roslin T. Food web structure of willow galling sawflies and their natural enemies across Europe. 2017 Ecology. 6(98):1730-1730.<a href="https://doi.org/10.1002/ecy.1832"> URL</a></span> 
+
+N/A
+
+N/A
+
+2017
+
+### <span style="font-weight:300;">Thuiller W., Münkemüller T., Schiffers K H., Georges D., Dullinger S., Eckhart V M., Edwards T C., Gravel D., Kunstler G., Merow C., Moore K., Piedallu C., <span style="text-decoration: underline;">Vissault S.</span>, Zimmermann N E., Zurell D., Schurr F M. Does probability of occurrence relate to population dynamics?. 2014 Ecography. 12(37):1155-1166.<a href="https://doi.org/10.1111/ecog.00836"> URL</a></span>
+
+N/A
+
+N/A
+
+2014
+
