@@ -14,7 +14,7 @@ Aside
 Coordonnées
 ------------------------------------
 
-54 Rue de London<br>
+54 rue de London<br>
 Sherbrooke, QC J1H 3M3<br>
 <i class="fas fa-mobile-alt"></i> 819 347-9960<br>
 <i class="fa fa-envelope"></i> s.vissault@yahoo.fr<br>
@@ -55,7 +55,7 @@ Niveau B2
 Main
 ====================================
 
-Steve Vissault <span style="text-transform: capitalize;font-size: 13px;">M.Sc.</span>{#title} 
+ <span style="font-weight:600">Steve Vissault </span><span style="text-transform: capitalize;font-size: 13px;">M.Sc.</span>{#title} 
 ------------------------------------
 
 <span style="font-size: 1rem;">< <i class="fa fa-chart-bar"></i> + <i class="fa fa-flask"></i> >  Scientifique des données</span>
@@ -97,42 +97,6 @@ Rimouski, CA
 Intégration multi-sources des données d'inventaires forestiers É-U & CA | Analyse démographique des peuplements forestiers d'Amérique du Nord
 
 
-Ateliers de travail {data-icon=briefcase}
-------------------------------------
-
-### Comment visualiser les changements de biodiversité?
-
-Organisateur
-
-N/A
-
-2019 - 2017
-
-Groupe de travail multidisciplinaire financé par le Centre des Sciences de la Biodiversité du Québec
-
-### Visualisation des données scientifiques
-
-Organisateur
-
-Mt. Saint-Hilaire, CA
-
-2016
-
-Atelier de 2 jours financé par le Centre des Sciences de la Biodiversité du Québec
-
-
-Certification {data-icon=certificate}
-------------------------------------
-
-### Calculs de haute performance (HPC)
-
-École de printemps de Calcul Québec
-
-Orford, CA
-
-2014
-
-
 Diplômes {data-icon=graduation-cap}
 ------------------------------------
 
@@ -172,6 +136,41 @@ Cégep de La Pocatière
 La Pocatière, CA
 
 2010 - 2007
+
+Ateliers {data-icon=briefcase}
+------------------------------------
+
+### Comment visualiser les changements de biodiversité?
+
+Organisateur
+
+N/A
+
+2019 - 2017
+
+Groupe de travail multidisciplinaire financé par le Centre des Sciences de la Biodiversité du Québec
+
+### Visualisation des données scientifiques
+
+Organisateur
+
+Mt. Saint-Hilaire, CA
+
+2016
+
+Atelier de 2 jours financé par le Centre des Sciences de la Biodiversité du Québec
+
+
+Certification {data-icon=certificate}
+------------------------------------
+
+### Calculs de haute performance (HPC)
+
+École de printemps de Calcul Québec
+
+Orford, CA
+
+2014
 
 
 Enseignements {data-icon=chalkboard-teacher}
@@ -217,17 +216,8 @@ Rimouski
 
 Auxilliaire d’enseignement
 
-Publications {data-icon=book}
+Publications <span style="font-size:12px;text-transform: lowercase;">- 5 séléctionnés</span> {data-icon=book}
 ------------------------------------
-
-### <span style="font-weight:300;">Brice M.H., <span style="text-decoration: underline;">Vissault S.</span>, Vieira W., Gravel D., Legendre P., Fortin M. Drivers of forest community changes in the boreal-temperate ecotone. Global Change Biology</span>
-
-N/A
-
-N/A
-
-Accepted
-
 
 ### <span style="font-weight:300;">Becker-Scarpitta A., <span style="text-decoration: underline;">Vissault S.</span>, Vellend M. Four decades of plant community change along a continental gradient of warming. Global Change Biology. 5(25):1629-1641.<a href="https://doi.org/10.1111/gcb.14568"> URL</a></span>
 
@@ -254,14 +244,6 @@ N/A
 2017
 
 ### <span style="font-weight:300;">Marchese C., Albouy C., Tremblay J r., Dumont D., D’Ortenzio F., <span style="text-decoration: underline;">Vissault S.</span>, Bélanger S. Changes in phytoplankton bloom phenology over the North Water (NOW) polynya: a response to changing environmental conditions. 2017 Polar Biology. 9(40):1721-1737.<a href="https://doi.org/10.1007/s00300-017-2095-2"> URL</a></span>
-
-N/A
-
-N/A
-
-2017
-
-### <span style="font-weight:300;">Kopelke J P., Nyman T., Cazelles K v., Gravel D., <span style="text-decoration: underline;">Vissault S.</span>, Roslin T. Food web structure of willow galling sawflies and their natural enemies across Europe. 2017 Ecology. 6(98):1730-1730.<a href="https://doi.org/10.1002/ecy.1832"> URL</a></span> 
 
 N/A
 
