@@ -24,7 +24,7 @@ Sherbrooke, QC J1H 3M3<br>
 <a href="https://twitter.com/SVissault"><i class="fa fa-twitter"></i> @SVissault</a><br>
 <a href="https://scholar.google.com/citations?user=gUUVhKoAAAAJ&hl=fr"><i class="fa fa-google"></i> Publications</a><br>
 
-Analyse statistique
+Analyses statistiques
 ------------------------------------
 
 Régressions, Analyse en composantes principales, Classification automatique
@@ -119,7 +119,6 @@ Mt. Saint-Hilaire, CA
 2016
 
 Atelier de 2 jours financé par le Centre des Sciences de la Biodiversité du Québec
-
 
 
 Certification {data-icon=certificate}
