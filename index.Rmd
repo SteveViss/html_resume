@@ -46,7 +46,7 @@ Programmation scientifique
 Langues
 ------------------------------------
 
-**Francais**<br>
+**Français**<br>
 Langue maternelle<br>
 **Anglais**<br>
 Niveau B2
@@ -74,7 +74,7 @@ Sherbrooke, CA
 Administration d'un laboratoire de recherche | analyses statistiques | analyses spatiales | infographie | développement web | gestion de serveurs et de systèmes de base de données<br>
 
 - **[Mangal.io](https://mangal.io)** - _Développeur principal_ - Service web et outils permettant l'entreposage et l'analyse de réseaux écologiques (e.g. Plantes-Pollinisateurs)
-- **[Coléo](https://coleo.biodiversite-quebec.ca)** - _Développeur principal_ - Infrastructure informatique permettant l'entreposage et l'analyses de données de biodiversité
+- **[Coléo](https://coleo.biodiversite-quebec.ca)** - _Développeur principal_ - Infrastructure informatique permettant l'entreposage et l'analyse de données de biodiversité
 
 ### Bioinformaticien 
 
@@ -106,7 +106,10 @@ Université de Sherbrooke
 
 Sherbrooke, CA
 
-2019 - non-complété
+non-complété - 2019
+
+Titre de la thèse - _Suivre les changements de biodiversité à l'ère de l'Anthropocène._
+Automatisation d'approches statistiques reposant sur des données ouvertes afin de modéliser les changements de biodiversité.
 
 ### Maitrise en biologie
 
@@ -164,7 +167,7 @@ Atelier de 2 jours financé par le Centre des Sciences de la Biodiversité du Qu
 Certification {data-icon=certificate}
 ------------------------------------
 
-### Calculs de haute performance (HPC)
+### Calcul de haute performance (HPC)
 
 École de printemps de Calcul Québec
 
@@ -214,7 +217,7 @@ Rimouski
 
 2014
 
-Auxilliaire d’enseignement
+Auxiliaire d’enseignement
 
 Publications <span style="font-size:12px;text-transform: lowercase;">- 5 séléctionnés</span> {data-icon=book}
 ------------------------------------
