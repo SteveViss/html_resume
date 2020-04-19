@@ -100,11 +100,11 @@ Intégration multi-sources des données d'inventaires forestiers É-U & CA | Ana
 Ateliers de travail {data-icon=briefcase}
 ------------------------------------
 
-### Comment mieux visualiser les données de biodiversité?
+### Comment visualiser les changements de biodiversité?
 
-Participants
+Organisateur
 
-Mt. Saint-Hilaire, CA
+N/A
 
 2017-2019
 
