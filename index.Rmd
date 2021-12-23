@@ -19,7 +19,6 @@ Sherbrooke, QC J1H 3M3<br>
 <i class="fas fa-mobile-alt"></i> 819 347-9960<br>
 <i class="fa fa-envelope"></i> s.vissault@yahoo.fr<br>
 <br>
-<a href="https://steveviss.github.io"><i class="fa fa-globe"></i> Site personnel</a><br>
 <a href="https://github.com/SteveViss"><i class="fa fa-github"></i> SteveViss</a><br>
 <a href="https://twitter.com/SVissault"><i class="fa fa-twitter"></i> @SVissault</a><br>
 <a href="https://scholar.google.com/citations?user=gUUVhKoAAAAJ&hl=fr"><i class="fa fa-google"></i> Publications</a><br>
@@ -34,13 +33,15 @@ Programmation scientifique
 
 <span style="font-weight:600;">Base de données</span>: PostgreSQL, SQLite<br>
 
-<span style="font-weight:600;">Automatisation de rapports</span>: markdown, pandoc, LateX, makefile<br> 
+<span style="font-weight:600;">Analyse et représentation de données</span>: Python, R (Shiny & Rmarkdown)<br>
 
-<span style="font-weight:600;">Analyse et représentation de données</span>: Python, R, D3.js<br>
+<span style="font-weight:600;">Développement backend</span>: Springboot (Java), JOOQ (Java), NodeJS<br>
 
-<span style="font-weight:600;">Développement web</span>: HTML/CSS, NodeJS, vue.js, AngularJS, jekyll, harp.js etc.<br>
+<span style="font-weight:600;">Développement web</span>: Vue, AngularJS, Jekyll<br>
 
-<span style="font-weight:600;">DevOps (CI/CD)</span>: Ansible, Vagrant, Docker, Travis, AppVeyor
+<span style="font-weight:600;">Solution d'orchestration</span>: Spring dataflow (Java)<br> 
+
+<span style="font-weight:600;">DevOps</span>: Kubernetes, Docker, Helm, Salt, Ansible, Vagrant, Jenkins
 
 
 Langues
@@ -58,10 +59,22 @@ Main
  <span style="font-weight:600">Steve Vissault </span><span style="text-transform: capitalize;font-size: 13px;">M.Sc.</span>{#title} 
 ------------------------------------
 
-<span style="font-size: 1rem;">< <i class="fa fa-chart-bar"></i> + <i class="fa fa-flask"></i> >  Scientifique des données</span>
+<span style="font-size: 1rem;">< <i class="fa fa-chart-bar"></i> + <i class="fa fa-cog"></i> >  Ingénieur de données</span>
 
 Expériences Professionnelles {data-icon=suitcase}
 ------------------------------------
+
+### Ingénieur de données
+
+Omnimed
+
+Cookshire-Eaton, CA
+
+Présent - 2020
+
+Gestion d'équipe par méthodologie SCRUM & Agile | Forage et traitement statistiques de données clinico-administratives | 
+Développement de produits orientée données (ETL / BI)<br>
+
 
 ### Professionnel de recherche | Bioinformaticien
 
@@ -218,47 +231,4 @@ Rimouski
 2014
 
 Auxiliaire d’enseignement
-
-Publications <span style="font-size:12px;text-transform: lowercase;">- 5 séléctionnés</span> {data-icon=book}
-------------------------------------
-
-### <span style="font-weight:300;">Becker-Scarpitta A., <span style="text-decoration: underline;">Vissault S.</span>, Vellend M. Four decades of plant community change along a continental gradient of warming. Global Change Biology. 5(25):1629-1641.<a href="https://doi.org/10.1111/gcb.14568"> URL</a></span>
-
-N/A
-
-N/A
-
-2019
-
-### <span style="font-weight:300;">Legagneux P., Casajus N., Cazelles K., Chevallier C m., Chevrinais M., Guéry L., Jacquet C., Jaffré M., Naud M J., Noisette F., Ropars P., <span style="text-decoration: underline;">Vissault S.</span>, Archambault P., Bêty J., Berteaux D., Gravel D. Our House Is Burning: Discrepancy in Climate Change vs. Biodiversity Coverage in the Media as Compared to Scientific Literature. Frontiers in Ecology and Evolution (5):175.<a href="https://doi.org/10.3389/fevo.2017.00175"> URL</a></span>
-
-N/A
-
-N/A
-
-2018
-
-### <span style="font-weight:300;">Talluto M V., Boulangeat I., <span style="text-decoration: underline;">Vissault S.</span>, Thuiller W., Gravel D. Extinction debt and colonization credit delay range shifts of eastern North American trees. Nature Ecology & Evolution. June(1):0182.<a href="https://doi.org/10.1038/s41559-017-0182"> URL</a></span>
-
-N/A
-
-N/A
-
-2017
-
-### <span style="font-weight:300;">Marchese C., Albouy C., Tremblay J r., Dumont D., D’Ortenzio F., <span style="text-decoration: underline;">Vissault S.</span>, Bélanger S. Changes in phytoplankton bloom phenology over the North Water (NOW) polynya: a response to changing environmental conditions. 2017 Polar Biology. 9(40):1721-1737.<a href="https://doi.org/10.1007/s00300-017-2095-2"> URL</a></span>
-
-N/A
-
-N/A
-
-2017
-
-### <span style="font-weight:300;">Thuiller W., Münkemüller T., Schiffers K H., Georges D., Dullinger S., Eckhart V M., Edwards T C., Gravel D., Kunstler G., Merow C., Moore K., Piedallu C., <span style="text-decoration: underline;">Vissault S.</span>, Zimmermann N E., Zurell D., Schurr F M. Does probability of occurrence relate to population dynamics?. 2014 Ecography. 12(37):1155-1166.<a href="https://doi.org/10.1111/ecog.00836"> URL</a></span>
-
-N/A
-
-N/A
-
-2014
 

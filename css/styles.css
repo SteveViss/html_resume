@@ -1,5 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
 :root {
     --sidebar-width: 11.5rem;
+    --sidebar-background-color: rgb(230, 243, 247);
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
 }
 
 [data-id="main"] {
@@ -21,7 +28,6 @@ h1 {
 }
 
 .aside {
-    background-color: rgb(230, 243, 247);
     padding: 0.1in var(--sidebar-horizontal-padding);
 }
 
@@ -30,22 +36,11 @@ a {
 
 }
 
+.level2 {
+    margin-top: 0in;
+}
+
+
 .aside .level2 {
-    margin-top: 0.3in;
-}
-
-.pagedjs_page:first-of-type {
-    --sidebar-background-color: rgb(230, 243, 247);
-}
-
-.pagedjs_page:not(:first-of-type) {
-    --sidebar-background-color: rgb(230, 243, 247);
-    --sidebar-width: 2rem;
-    --main-width: calc(var(--content-width) - var(--sidebar-width));
-    --pagedjs-margin-top: 0.5in;
-}
-
-.pagedjs_page {
-    --pagedjs-margin-right: 0.25in;
-    --pagedjs-margin-top: 0.7in;
+    margin-top: 0.1in;
 }
