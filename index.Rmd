@@ -14,13 +14,11 @@ Aside
 Coordonnées
 ------------------------------------
 
-54 rue de London<br>
-Sherbrooke, QC J1H 3M3<br>
-<i class="fas fa-mobile-alt"></i> 819 347-9960<br>
-<i class="fa fa-envelope"></i> s.vissault@yahoo.fr<br>
+819 347-9960<br>
+svissault01t@gmail.com<br>
 <br>
 <a href="https://github.com/SteveViss"><i class="fa fa-github"></i> SteveViss</a><br>
-<a href="https://twitter.com/SVissault"><i class="fa fa-twitter"></i> @SVissault</a><br>
+<a href="https://www.linkedin.com/in/steve-vissault-66602946/"><i class="fa fa-linkedin"></i> Linkdin</a><br>
 <a href="https://scholar.google.com/citations?user=gUUVhKoAAAAJ&hl=fr"><i class="fa fa-google"></i> Publications</a><br>
 
 Analyses statistiques
@@ -34,6 +32,9 @@ Programmation scientifique
 <span style="font-weight:600;">Base de données</span>: PostgreSQL, SQLite<br>
 
 <span style="font-weight:600;">Analyse et représentation de données</span>: Python, R (Shiny & Rmarkdown)<br>
+
+Développement informatique
+------------------------------------
 
 <span style="font-weight:600;">Développement backend</span>: Springboot (Java), JOOQ (Java), NodeJS<br>
 
@@ -59,18 +60,27 @@ Main
  <span style="font-weight:600">Steve Vissault </span><span style="text-transform: capitalize;font-size: 13px;">M.Sc.</span>{#title} 
 ------------------------------------
 
-<span style="font-size: 1rem;">< <i class="fa fa-chart-bar"></i> + <i class="fa fa-cog"></i> >  Ingénieur de données</span>
+<span style="font-size: 1rem;">< <i class="fa fa-chart-bar"></i> + <i class="fa fa-cog"></i> >  Scientifique de données</span>
 
 Expériences Professionnelles {data-icon=suitcase}
 ------------------------------------
+### Consultant
 
-### Ingénieur de données
+inSileco
+
+Sherbrooke, CA
+
+présent - 2023
+
+Services-conseils en gestion de données | Gestion de projets | Développement de solutions applicatives webs sur mesures
+
+### Scientifique de données
 
 Omnimed
 
 Cookshire-Eaton, CA
 
-Présent - 2020
+2023 - 2020
 
 Gestion d'équipe par méthodologie SCRUM & Agile | Forage et traitement statistiques de données clinico-administratives | 
 Développement de produits orientée données (ETL / BI)<br>
