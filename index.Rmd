@@ -190,13 +190,13 @@ Atelier de 2 jours financé par le Centre des Sciences de la Biodiversité du Qu
 Certification {data-icon=certificate}
 ------------------------------------
 
-### Calcul de haute performance (HPC)
+### Introduction au Design Thinking
 
-École de printemps de Calcul Québec
+Centre de formation continue - Cégep de Sherbrooke
 
-Orford, CA
+Virtuelle
 
-2014
+2023
 
 ### Déploiement et utilisation reponsable de l'Intelligence Artificielle
 
@@ -206,14 +206,13 @@ Virtuelle
 
 2022
 
-### Introduction au Design Thinking
+### Calcul de haute performance (HPC)
 
-Centre de formation continue - Cégep de Sherbrooke
+École de printemps de Calcul Québec
 
-Virtuelle
+Orford, CA
 
-2023
-
+2014
 
 Enseignements {data-icon=chalkboard-teacher}
 ------------------------------------
