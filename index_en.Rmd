@@ -1,0 +1,253 @@
+---
+title: "Steve Vissault"
+author: Steve Vissault
+date: "`r Sys.Date()`"
+output: 
+    pagedown::html_resume:
+        css: ['css/styles.css', 'resume']
+        self_contained: true        
+---
+
+Aside
+====================================
+
+Contact Information
+------------------------------------
+
+819 347-9960<br>
+svissault01t@gmail.com<br>
+<br>
+<a href="https://github.com/SteveViss"><i class="fa fa-github"></i> SteveViss</a><br>
+<a href="https://www.linkedin.com/in/steve-vissault-66602946/"><i class="fa fa-linkedin"></i> LinkedIn</a><br>
+<a href="https://scholar.google.com/citations?user=gUUVhKoAAAAJ&hl=fr"><i class="fa fa-google"></i> Publications</a><br>
+
+Statistical Analyses
+------------------------------------
+
+Regressions, Principal Component Analysis, Automatic Classification
+
+Scientific Programming
+------------------------------------
+
+<span style="font-weight:600;">Database</span>: PostgreSQL, SQLite<br>
+
+<span style="font-weight:600;">Data Analysis and Visualization</span>: Python, R (Shiny & Rmarkdown)<br>
+
+Software Development
+------------------------------------
+
+<span style="font-weight:600;">Backend Development</span>: Springboot (Java), JOOQ (Java), NodeJS<br>
+
+<span style="font-weight:600;">Web Development</span>: Vue, AngularJS, Jekyll<br>
+
+<span style="font-weight:600;">Orchestration Solution</span>: Spring Dataflow (Java)<br>
+
+<span style="font-weight:600;">DevOps</span>: Kubernetes, Docker, Helm, Salt, Ansible, Vagrant, Jenkins
+
+Languages
+------------------------------------
+
+**French**<br>
+Native Language<br>
+**English**<br>
+B2 Level
+
+Main
+====================================
+
+ <span style="font-weight:600">Steve Vissault </span><span style="text-transform: capitalize;font-size: 13px;">M.Sc.</span>{#title} 
+------------------------------------
+
+<span style="font-size: 1rem;">< <i class="fa fa-chart-bar"></i> + <i class="fa fa-cog"></i> >  Data Scientist</span>
+
+Professional Experience {data-icon=suitcase}
+------------------------------------
+### Consultant
+
+inSileco
+
+Sherbrooke, CA
+
+present - 2023
+
+Data management consulting | Custom web application solutions | Quality assurance, data analysis and processing
+
+### Data Scientist
+
+Omnimed
+
+Cookshire-Eaton, CA
+
+2023 - 2020
+
+Team management with SCRUM & Agile methodology | Data mining and statistical processing of clinical-administrative data | 
+Data-driven product development (ETL / BI)<br>
+
+### Research Professional | Bioinformatician
+
+University of Sherbrooke
+
+Sherbrooke, CA
+
+2018 - 2016
+
+Research lab administration | Statistical analysis | Spatial analysis | Graphic design | Web development | Server and database system management<br>
+
+- **[Mangal.io](https://mangal.io)** - _Lead Developer_ - Web service and tools for storing and analyzing ecological networks (e.g., Plant-Pollinator)
+- **[Coléo](https://coleo.biodiversite-quebec.ca)** - _Lead Developer_ - IT infrastructure for biodiversity data storage and analysis
+
+### Bioinformatician 
+
+Forest Research Directorate (MFFP) | Ouranos
+
+Quebec, CA
+
+2014<br>(1 month)
+
+Spatial database architecture | Parallel data injection of 1TB on supercomputer (Calcul Québec) | [Seminar](http://steveviss.github.io/Talk_Ouranos/#1)  
+
+### Research Assistant
+
+University of Quebec at Rimouski
+
+Rimouski, CA
+
+2013<br>(3 months)
+
+Multi-source integration of forest inventory data from the US & CA | Demographic analysis of North American forest stands
+
+Degrees {data-icon=graduation-cap}
+------------------------------------
+
+### PhD in Bioinformatics
+
+University of Sherbrooke
+
+Sherbrooke, CA
+
+not completed - 2019
+
+Thesis Title - _Tracking Biodiversity Changes in the Anthropocene._
+Automation of statistical approaches based on open data to model biodiversity changes.
+
+### Master’s in Biology
+
+University of Quebec at Rimouski
+
+Rimouski, CA
+
+2016 - 2013
+
+Statistical and computational modeling approach<br>
+_Excellence Award_ for thesis _Biogeography and Dynamics of the Northern Temperate Forest in a Context of Climate Change_
+
+### Bachelor’s in Biology
+
+University of Quebec at Rimouski
+
+Rimouski, CA
+
+2013 - 2010
+
+Concentration - Wildlife and Habitat Management
+
+### Bioecology Technology
+
+Cégep de La Pocatière
+
+La Pocatière, CA
+
+2010 - 2007
+
+Workshops {data-icon=briefcase}
+------------------------------------
+
+### How to Visualize Biodiversity Changes?
+
+Organizer
+
+N/A
+
+2019 - 2017
+
+Multidisciplinary working group funded by the Quebec Centre for Biodiversity Science
+
+### Scientific Data Visualization
+
+Organizer
+
+Mt. Saint-Hilaire, CA
+
+2016
+
+2-day workshop funded by the Quebec Centre for Biodiversity Science
+
+Certification {data-icon=certificate}
+------------------------------------
+
+### Introduction to Design Thinking
+
+Continuing Education Center - Cégep de Sherbrooke
+
+Virtual
+
+2023
+
+### Responsible AI Deployment and Usage
+
+AMII Education Program - [Certificate](https://www.credential.net/1d168e86-3139-4e0e-b428-01ee5d536556#gs.1vsk2r)
+
+Virtual
+
+2022
+
+### High-Performance Computing (HPC)
+
+Calcul Québec Spring School
+
+Orford, CA
+
+2014
+
+Teaching {data-icon=chalkboard-teacher}
+------------------------------------
+
+### Geostatistics - Spatio-temporal Models
+
+GSFE01 - PR Stats
+
+Winnipeg, CA
+
+2019
+
+Instructor and teaching materials contributor [educational materials](https://steveviss.github.io/PR-GSFE01/)
+
+### Computational Methods in Ecology
+
+BIO500 - University of Sherbrooke
+
+Sherbrooke, CA
+
+2019 - 2017
+
+Assistant and teaching materials contributor [educational materials](https://econumuds.github.io/BIO500/bloc1/#1)
+
+### Introduction to Scientific Programming
+
+BIO109 - University of Sherbrooke
+
+Sherbrooke, CA
+
+2017
+
+Assistant and teaching materials contributor [educational materials](https://econumuds.github.io/BIO109/cours1/#1)
+
+### Biostatistics 
+
+BIO10091 - University of Quebec at Rimouski
+
+Rimouski
+
+2014
+
+Teaching Assistant
