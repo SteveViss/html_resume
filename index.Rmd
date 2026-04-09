@@ -60,7 +60,7 @@ Main
  <span style="font-weight:600">Steve Vissault </span><span style="text-transform: capitalize;font-size: 13px;">M.Sc.</span>{#title} 
 ------------------------------------
 
-<span style="font-size: 1rem;">< <i class="fa fa-chart-bar"></i> + <i class="fa fa-cog"></i> >  Scientifique de données</span>
+<span style="font-size: 1rem;">< <i class="fa fa-chart-bar"></i> + <i class="fa fa-cog"></i> >  Scientifique, passionné par les données</span>
 
 Expériences Professionnelles {data-icon=suitcase}
 ------------------------------------
