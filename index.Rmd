@@ -64,15 +64,36 @@ Main
 
 Expériences Professionnelles {data-icon=suitcase}
 ------------------------------------
+
+### Bioinformaticien
+
+Institut National de la Recherche Scientifique (INRS)
+
+Québec, CA
+
+Présent - 2025
+
+Développement d'applications Shiny | Analyses de métabarcoding | Coordonination de la Table sur l'ADNe du Québec | Rédaction de rapports et d'articles scientifiques<br>
+
 ### Consultant
 
-inSileco
+inSileco Inc.
 
 Sherbrooke, CA
 
-présent - 2023
+2026 - 2023
 
 Service-conseils en gestion de données | Développement de solutions applicatives webs sur mesure | Assurance qualité, analyse et traitement de données
+
+### Gestionnaire de données
+
+Environnement Canada
+
+Québec, CA
+
+2024
+
+Conception d'une base de données sur des contaminants | Développement d'applications Shiny | Assurance qualité et intégration de données d'analyse en laboratoire
 
 ### Scientifique de données
 
@@ -84,7 +105,6 @@ Cookshire-Eaton, CA
 
 Gestion d'équipe par méthodologie SCRUM & Agile | Forage et traitement statistiques de données clinico-administratives | 
 Développement de produits orientée données (ETL / BI)<br>
-
 
 ### Professionnel de recherche | Bioinformaticien
 
@@ -166,6 +186,17 @@ La Pocatière, CA
 Ateliers {data-icon=briefcase}
 ------------------------------------
 
+### Groupe de réflexion sur l'utilisation de l'eDNA au Québec
+
+Organisateur
+
+Québec et Montréal, CA
+
+2026
+
+Groupe de travail financé par Génome Québec et Génome Canada
+
+
 ### Comment visualiser les changements de biodiversité?
 
 Organisateur
@@ -217,6 +248,26 @@ Orford, CA
 Enseignements {data-icon=chalkboard-teacher}
 ------------------------------------
 
+### Formation au métabarcoding avec BARQUE
+
+INRS
+
+Québec, CA
+
+Octobre, 2025
+
+Formateur et conception du [matériel pédagogique](https://taqc.info/trainingMetabarcoding/#/title-slide)
+
+### How to make your scientific code accessible and reproducible using Git and Github? 
+
+Environnement Canada
+
+Québec, CA
+
+Avril, 2025
+
+Formateur et conception du [matériel pédagogique](https://eccc-lavoie-ecotox.github.io/workshop_git/#/title-slide)
+
 ### Géostatistiques - Modèles spatio-temporels
 
 GSFE01 - PR Stats
@@ -225,7 +276,7 @@ Winnipeg, CA
 
 2019
 
-Instructeur et aide au montage du [matériels pédagogiques](https://steveviss.github.io/PR-GSFE01/)
+Formateur et aide au montage du [matériel pédagogique](https://steveviss.github.io/PR-GSFE01/)
 
 ### Méthodes computationnelles en écologie
 
@@ -235,7 +286,7 @@ Sherbrooke, CA
 
 2019 - 2017
 
-Assistant et aide au montage du [matériels pédagogiques](https://econumuds.github.io/BIO500/bloc1/#1)
+Assistant et aide au montage du [matériel pédagogique](https://econumuds.github.io/BIO500/bloc1/#1)
 
 ### Introduction à la programmation scientifique
 
@@ -245,7 +296,7 @@ Sherbrooke, CA
 
 2017
 
-Assistant et aide au montage du [matériels pédagogiques](https://econumuds.github.io/BIO109/cours1/#1)
+Assistant et aide au montage du [matériel pédagogique](https://econumuds.github.io/BIO109/cours1/#1)
 
 ### Biostatistiques 
 

@@ -61,16 +61,37 @@ Main
 <span style="font-size: 1rem;">< <i class="fa fa-chart-bar"></i> + <i class="fa fa-cog"></i> >  Data Scientist</span>
 
 Professional Experience {data-icon=suitcase}
+
 ------------------------------------
+### Bioinformatician
+
+Institut National de la Recherche Scientifique (INRS)
+
+Quebec, CA
+
+Present - 2025
+
+Shiny application development | Metabarcoding analyses | Coordination of the Quebec eDNA Working Group | Writing reports and scientific articles<br>
+
 ### Consultant
 
-inSileco
+inSileco Inc.
 
 Sherbrooke, CA
 
-present - 2023
+2026 - 2023
 
 Data management consulting | Custom web application solutions | Quality assurance, data analysis and processing
+
+### Data Manager
+
+Environment Canada
+
+Quebec, CA
+
+2024
+
+Design of a contaminants database | Shiny application development | Quality assurance and integration of laboratory analysis data
 
 ### Data Scientist
 
@@ -162,6 +183,16 @@ La Pocatière, CA
 Workshops {data-icon=briefcase}
 ------------------------------------
 
+### eDNA Working Group in Quebec
+
+Organizer
+
+Quebec and Montreal, CA
+
+2026
+
+Working group funded by Genome Quebec and Genome Canada
+
 ### How to Visualize Biodiversity Changes?
 
 Organizer
@@ -212,6 +243,26 @@ Orford, CA
 Teaching {data-icon=chalkboard-teacher}
 ------------------------------------
 
+### Metabarcoding training with BARQUE
+
+INRS
+
+Quebec, CA
+
+October, 2025
+
+Instructor and course designer [educational materials](https://taqc.info/trainingMetabarcoding/#/title-slide)
+
+### How to make your scientific code accessible and reproducible using Git and Github?
+
+Environment Canada
+
+Quebec, CA
+
+April, 2025
+
+Instructor and course designer [educational materials](https://eccc-lavoie-ecotox.github.io/workshop_git/#/title-slide)
+
 ### Geostatistics - Spatio-temporal Models
 
 GSFE01 - PR Stats
@@ -220,7 +271,7 @@ Winnipeg, CA
 
 2019
 
-Instructor and teaching materials contributor [educational materials](https://steveviss.github.io/PR-GSFE01/)
+Instructor and course designer [educational materials](https://steveviss.github.io/PR-GSFE01/)
 
 ### Computational Methods in Ecology
 
@@ -230,7 +281,7 @@ Sherbrooke, CA
 
 2019 - 2017
 
-Assistant and teaching materials contributor [educational materials](https://econumuds.github.io/BIO500/bloc1/#1)
+Assistant and course designer [educational materials](https://econumuds.github.io/BIO500/bloc1/#1)
 
 ### Introduction to Scientific Programming
 
@@ -240,9 +291,9 @@ Sherbrooke, CA
 
 2017
 
-Assistant and teaching materials contributor [educational materials](https://econumuds.github.io/BIO109/cours1/#1)
+Assistant and course designer [educational materials](https://econumuds.github.io/BIO109/cours1/#1)
 
-### Biostatistics 
+### Biostatistics
 
 BIO10091 - University of Quebec at Rimouski
 
